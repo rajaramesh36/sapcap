@@ -4,3 +4,4 @@ service CatalogService {
      entity Books as projection on my.Books;
      entity Order as projection on my.Order;
 }
+//service commented
